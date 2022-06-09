@@ -1,12 +1,6 @@
  # About me
+👋 Hi, I’m *Edgar Gois Hidalgo*
+- My contact email is edgar.hidalgo1108@gmail.com
+- 👀 I’m interested in learning progamation languages.
+- 🌱 I’m currently learning to program in Javascript and Scratch
 
-👋 Hi, I’m @YamiSan1108
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-YamiSan1108/YamiSan1108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
